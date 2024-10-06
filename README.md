@@ -1,6 +1,7 @@
 # 💫 About Me:
 Me llamo Hazel, tengo 22 años, estoy en el programa de estuido de fundación teléfonica 42 Madrid. <br>Tengo conocimientos en Flutter&Dart.
 
+[![hcruz-me's 42 stats](https://badge.mediaplus.ma/greenbinary/hcruz-me?UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hzzzlc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hazel Méndez) 
