@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me llamo Hazel, tengo 22 años, estoy en el programa de estuido de fundación teléfonica 42 Madrid. <br>Tengo conocimientos en Flutter&Dart.
+Me llamo Hazel, tengo 22 años, estoy en el programa de estuido de fundación teléfonica 42 Madrid. <br>
 
 ![hcruz-me's 42 stats](https://badge.mediaplus.ma/greenbinary/hcruz-me?UM6P=off)
 
